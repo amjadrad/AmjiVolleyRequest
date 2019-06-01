@@ -10,8 +10,6 @@ import com.android.volley.toolbox.StringRequest;
 
 import java.util.Map;
 
-import ir.amjadrad.orum_student.presenter.IVolleyParams;
-
 
 public class VolleyRequestController extends StringRequest implements IVolleyParams {
 
